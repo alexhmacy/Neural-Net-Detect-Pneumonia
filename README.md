@@ -9,6 +9,8 @@ We want to know, given an X-Ray, whether or not a patient has pneumonia. This in
 ##  First Steps
 1. Create a naive Sequential model baseline
 2. Evaluate this baseline against a more convoluted model
+
+## Developing more advanced methods
 3. Normalize and augment the data, and then revisualize on a more complex model.
 4. Compare/Contrast pros and cons of modeling, identify inherent problems in the data.
 5. Adjust for class imbalancing; readdress data issues
