@@ -1,2 +1,6 @@
-.DS_store
-.ipynb_checkpoints
+*.h5 
+
+chest_xray/ 
+
+chest-xray-pneumonia.zip 
+
