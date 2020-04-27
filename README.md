@@ -1,8 +1,5 @@
 # Mod 4 Pneumonia Classifier
 
-# Module 2 Final Project
-
-
 ## Introduction
 
 Import, explore, clean, standardize, and model the Chest X-Ray dataset with a Keras Sequential Model. Utilize Data Augmentaton, Normalization, and Class Balancing to generate the best testing results.
@@ -19,7 +16,7 @@ We want to know, given an X-Ray, whether or not a patient has pneumonia. This in
 7. Present conclusions and offer recommendations.
 
 ## Methodology and Approach 
-This will be a supervised learning classification with three datasets: train, validation, and test. Instances are labeled by their class as either 'NORMAL' or 'PNEUMONIA'. Using a Multilayer Perceptron, my model will attempt to predict an images class. 
+This will be a supervised learning classification with three datasets: train, validation, and test. Instances are labeled by their class as either 'NORMAL' or 'PNEUMONIA'. Using a Multilayer Perceptron, my model will attempt to predict an image's class. 
 
 ## Performance Measures
 Adam and Binary Cross Entropy, aided by Batch Normalization and Class Balancing.
