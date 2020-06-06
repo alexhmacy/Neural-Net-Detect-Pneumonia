@@ -1,4 +1,4 @@
-# Mod 4 Pneumonia Classifier
+# Detecting Pneumonia from X-Rays
 
 ## Introduction
 
